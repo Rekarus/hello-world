@@ -1,2 +1,6 @@
 # hello-world
-let's get started
+
+Hi there
+
+I love diving in new worlds.
+Let's get started heya.
